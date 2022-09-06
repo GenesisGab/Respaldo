@@ -11,13 +11,17 @@ export function menu (){
             '<div class="logoHeader">'+
                 '<img src="./img/logo.png">'+
             '</div>'+
-    
-            '<ul class="nav">'+
-                '<li><a class="hijoOption">Menú</a></li>'+
-                '<li><a class="hijoOption">Menú</a></li>'+
-                '<li><a class="hijoOption">Menú</a></li>'+
-                '<li><a class="hijoOption">Menú</a></li>'+
-            '</ul>'+
+    '<nav class="navbar">'+
+
+    '<ul class="nav">'+
+    '<li><a class="hijoOption">Menú</a></li>'+
+    '<li><a class="hijoOption">Menú</a></li>'+
+    '<li><a class="hijoOption">Menú</a></li>'+
+    '<li><a class="hijoOption">Menú</a></li>'+
+'</ul>'+
+
+    '</nav>'+
+           
 
             '<div class="flecha">'+
                 '<a><img class="imgFlecha"></a>'+
